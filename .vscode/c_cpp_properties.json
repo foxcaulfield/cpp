@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "name": "Win64",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "cStandard": "c23",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                "-std=c++23",
+                "-Werror",
+                "-pedantic-errors",
+                "-Wall",
+                "-Wextra",
+                "-Wpedantic",
+                "-Wcast-align",
+                "-Wcast-qual",
+                "-Wconversion",
+                "-Wctor-dtor-privacy",
+                "-Wduplicated-branches",
+                "-Wduplicated-cond",
+                "-Wextra-semi",
+                "-Wfloat-equal",
+                "-Wlogical-op",
+                "-Wnon-virtual-dtor",
+                "-Wold-style-cast",
+                "-Woverloaded-virtual",
+                "-Wredundant-decls",
+                "-Wsign-conversion",
+                "-Wsign-promo",
+                "-static"
+            ]
+        }
+    ],
+    "version": 4
+}
