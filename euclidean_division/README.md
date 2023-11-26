@@ -18,7 +18,7 @@ For $a ≥ 0$ the results are identical.
 
 ### How to use
 
-Input absolute values, the resulting table will include all combinations of negative and positive quotients and remainders 
+Input absolute values, the resulting table will include all combinations of negative and positive quotients and remainders.
 
 Example: \
 ![Alt text](table_image.png)
