@@ -16,7 +16,16 @@ For $a ≥ 0$ the results are identical.
 
 ---
 
-### Links
+### How to use
+
+Input absolute values, the resulting table will include all combinations of negative and positive quotients and remainders 
+
+Example: \
+![Alt text](table_image.png)
+
+---
+
+### Related links
 
 https://math.stackexchange.com/questions/4742061/is-it-possible-for-integer-division-in-c-to-express-a-compact-mathematical-con
 
